@@ -459,7 +459,7 @@ footer h3{
         bottom: 0 !important;
         left: 0 !important;
         width: 100% !important;
-        background-color: white !important; 
+        background-color: rgba(21, 3, 37, 0.836) !important; 
         z-index: 9999 !important;
         padding: 10px 0 !important;
         border-top: 2px solid orange !important; /* Mstari wa juu wa menu */
@@ -491,6 +491,10 @@ footer h3{
     
     body {
         padding-bottom: 40px; 
+    }
+
+    footer {
+        display: none;
     }
 
 }
