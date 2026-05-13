@@ -395,6 +395,7 @@ footer h3{
 
     .logo h2{
         font-size: 15px;
+        margin-bottom: 2px;  
     }
     nav ul {
         display: none;
@@ -474,12 +475,12 @@ footer h3{
     }
 
     .down-mobile-btn ul li a {
-        font-size: 10px !important;
+        font-size: 15px !important;
         text-decoration: none !important;
-        color: #333 !important;
+        color: black !important;
         font-weight: bold !important;
         /* HAPA NDIPO BORDER ILIPO */
-        border: 1.5px solid orange !important; 
+        border: 2px solid orange !important; 
         padding: 6px 8px !important;
         border-radius: 5px !important;
     }
